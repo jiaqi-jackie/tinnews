@@ -1,4 +1,4 @@
-package network;
+package com.laioffer.tinnews.network;
 
 import com.laioffer.tinnews.model.NewsResponse;
 import retrofit2.Call;
